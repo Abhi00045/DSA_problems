@@ -5,10 +5,12 @@ function App() {
   return (
     <>
     {/* muliple props */}
-    <Propsday name="abhi" age={90} bool={true}/>
-    <Propsday name="thar" age={39}  bool={false}/>
+    {/* <Propsday name="abhi" age={90} bool={true}/>
+    <Propsday name="thar" age={39}  bool={false}/> */}
 
+{/* props...usging...gsap */}
 
+<Propsday/>
 
     {/* props using api */}
     
