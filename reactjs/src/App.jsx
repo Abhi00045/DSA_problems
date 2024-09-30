@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Propsday from './day1props'
+import Home from './Home'
 
 function App() {
   return (
@@ -11,6 +12,8 @@ function App() {
 {/* props...usging...gsap */}
 
 <Propsday/>
+<Home/>
+
 
     {/* props using api */}
     
